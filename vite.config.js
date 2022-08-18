@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://davidmachado-o/breaking-bad/',
+  base: 'https://davidmachado-o.github.io/breaking-bad/',
   plugins: [react()]
 })
